@@ -10,13 +10,20 @@ print("How to use playgrounds to make writing Swift fun and simple")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
-
+print("\nE.A.Mario")
+print("Dduje paravise\n")
 
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-
-
+print("Duje viecchie prufessure 'e cuncertino,")
+print("nu juorno, nun avevano che fá.")
+print("Pigliájeno 'a chitarra e 'o mandulino")
+print("e, 'nParaviso, jèttero a suná:\n")
+print("- Ttuppe-ttù  - \"San Pié', arapite!")
+print("ve vulimmo divertí\"")
+print("\"Site 'e Napule?! Trasite!")
+print("e facitece sentí\"\n")
 
 /*:
 
