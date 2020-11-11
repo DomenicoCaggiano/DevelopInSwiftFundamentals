@@ -11,8 +11,16 @@
  - Goal number of steps: The user's goal for number of steps to take each day
  - Average heart rate: The user's average heart rate over the last 24 hours
  */
-
-
+let name = "Domenico"
+print("User's name will not changes during the tracking")
+var age = 38
+print("Age dependes by user")
+var stepsToday = 925
+print("The number of steps taken today dependes by the user's actvities done")
+let goalSteps = 11000
+print("Goal Steps represents a reference value that usually doesn't change frequently")
+var avarageHR = 99
+print("The Avarage Heart Rate depends by the user's actvities done")
 
 
 
